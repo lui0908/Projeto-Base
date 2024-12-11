@@ -338,3 +338,5 @@ Por favor, ajude-nos a melhorar fornecendo seu feedback sobre a aula. Responda a
 - Em seguida crie um teste de validação (CI)
 - Gere artefatos (CD)
 - Entregue o link do GitHub criado via TEAMS contendo imagens demonstrando os Teste do Action em ação (CI) e print do repositório criado com os artefatos compactados (CD) como apresentado no projeto em aula.
+
+semem
